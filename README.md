@@ -99,7 +99,12 @@ These models are stored in the `models/` directory and are directly loaded by th
 ## 🎥 Demo Video 
 
 📌 **Demo Video Link:**  
-👉 *Add your 2–3 minute demo video link here (Google Drive / YouTube Unlisted)*
+🔗 **[Click here to view demo video](https://drive.google.com/file/d/1tdftvDkD8ceWMcrLfvNkgVbZCjPmJKeB/view?usp=drive_link)**
+####
+📌 **CF problem link used in demo**  
+🔗 **[Click here view codeforces problem used in demo ](https://codeforces.com/problemset/problem/2180/C)**
+
+
 
 ---
 
