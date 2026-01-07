@@ -51,6 +51,26 @@ All textual fields are combined and processed to extract meaningful features for
 | Classification | Accuracy | ~89% |
 | Regression | Mean Absolute Error (MAE) | ~1.33 |
 
+
+**Classification Report:**
+
+| Class   | Precision | Recall | F1-Score | Support |
+|--------|-----------|--------|----------|---------|
+| Easy   | 0.79 | 0.97 | 0.87 | 766 |
+| Medium | 0.90 | 0.87 | 0.89 | 1405 |
+| Hard   | 0.94 | 0.88 | 0.91 | 1941 |
+| **Accuracy** |  |  | **0.89** | 4112 |
+| **Macro Avg** | 0.88 | 0.91 | 0.89 | 4112 |
+| **Weighted Avg** | 0.90 | 0.89 | 0.89 | 4112 |
+
+### 🔹 Regression Performance
+
+The regression model predicts the numerical difficulty score with the following metrics:
+
+#### Mean Absolute Error (MAE) : 1.3323573920018335
+#### Root Mean Squared Error : 1.5743931052668152
+#### R² Score : 0.47723341059873015
+
 ---
 
 ## 🌐 Web Interface Explanation
@@ -113,6 +133,11 @@ These models are stored in the `models/` directory and are directly loaded by th
 
 🔗 **[Click here to open the Streamlit App](https://predicting-programming-problem-difficulty.streamlit.app/)**
 
+## 👤 Author
 
-
+**Name:** Rohit Mahawar  
+**Institute:** Indian Institute of Technology (IIT) Roorkee  
+**Program:** B.Tech in Computer Science and Engineering  
+**GitHub:** https://github.com/Rohit-166  
+**Email:** rohit_m@cs.iitr.ac.in
 
